@@ -10,9 +10,9 @@ namespace noob_git
     {
         static void Main(string[] args)
         {
-            Console.writeline("Penis sugen");
-            console.readkey;
-
+            Console.WriteLine("Penis sugen");
+            Console.ReadKey();
+            here is banan
         }
     }
 }
